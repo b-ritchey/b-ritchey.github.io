@@ -1,26 +1,2 @@
 # b-ritchey.github.io
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>About Me</title>
-    </head>
-    <style>
-        body {
-            background-color: darksalmon;
-        }
-    </style>
-    <body>
-        <h1>About Me</h1>
-        <p>This is the homepage for my website!
-            From here you can navigate between my different interest pages.
-        </p>
-        <ul>
-            <li><a href=history.html>History</a></li>
-            <li><a href=weights.html>Weightlifting</a></li>
-            <li><a href=motorcycle.html>Motorcycles</a></li>
-            <li><a href="code.html">Block of Code Example</a></li>
-        </ul>
-        <p>Thank you for visiting!</p>
-    </body>
-</html>
+
